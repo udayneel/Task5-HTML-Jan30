@@ -36,8 +36,8 @@
             <li style="list-style-type: circle;">MySQL</li>
             <li style="list-style-type: circle;">MongoDB</li>
             <li style="list-style-type: circle;">Cansandra</li>
-             
            </ol>
+           </li>
     </ul>
     
 </body>
